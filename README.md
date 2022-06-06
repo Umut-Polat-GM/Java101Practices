@@ -29,3 +29,6 @@ Bu program ogrencinin sınıfı geçme durumunu ders ortalamasını baz alarak h
 
 ## Recommendation Programing
 Bu program hava sıcaklıgına göre olay öneren bir yapıda hazırlandı.
+
+## Placement Programing
+Bu program girilen 3 farklı sayıyı sıralamak icin yapılmıştır.
