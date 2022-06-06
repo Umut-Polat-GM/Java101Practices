@@ -17,3 +17,6 @@ Bu program patika.dev icin kullanıcının vucut kitle endeksini hesaplamak icin
 
 ## Manav Gideri Hesaplama 
 Bu program patika.dev icin manavda alınan urunlerin hesabını yapmak amacıyla hazırlanmıstır.
+
+## Calculator
+Bu Program patika.dev icin basit hesap makinası programı olarak hazırlanmıştır.
