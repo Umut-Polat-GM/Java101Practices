@@ -14,3 +14,6 @@ Bu program patika.dev icin bir dairenin cevresi ve alanının hesabını yapacak
 
 ## Vucut Kitle Endeksi Hesaplama
 Bu program patika.dev icin kullanıcının vucut kitle endeksini hesaplamak icin hazırlanmıstır.
+
+## Manav Gideri Hesaplama 
+Bu program patika.dev icin manavda alınan urunlerin hesabını yapmak amacıyla hazırlanmıstır.
