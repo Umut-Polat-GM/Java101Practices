@@ -32,3 +32,6 @@ Bu program hava sıcaklıgına göre olay öneren bir yapıda hazırlandı.
 
 ## Placement Programing
 Bu program girilen 3 farklı sayıyı sıralamak icin yapılmıştır.
+
+## Burc Sorgulama Programı
+Bu program kullanıcının burcunu yazdırmak icin yapılmıstır.
