@@ -1,6 +1,6 @@
 #JAVA-101 PRACTICES REPOSITORY  
 
-## Ortalama Puan Hesaplama
+## Average
 Bu çalısma 6 dersin ortalamasını alıp kosul operatörü ile gecti veya kaldı cıktısı veren bir programdır.
 
 # KDV Calculatıon
