@@ -23,3 +23,6 @@ Bu Program patika.dev icin basit hesap makinası programı olarak hazırlanmış
 
 ## Login Interface
 Bu program kullanıcı giriş ekranı olarak hazırlanmıştır.
+
+## Grade Avarage Calculation
+Bu program ogrencinin sınıfı geçme durumunu ders ortalamasını baz alarak hesaplamaya yarıyor.
