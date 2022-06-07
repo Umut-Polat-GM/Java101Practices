@@ -82,3 +82,6 @@ java ile klavyeden girilen bir sayının mükemmel sayı olup/olmadığını bul
 
 ## Opposite_Triangle_Stars
 Java ile basamak sayısının kullanıcıdan alınan ve döngüler kullanılarak, yıldızlar(*) ile ekrana ters üçgen çizen program.
+
+## Asal_Sayilar
+Java ile 1 - 100 arasındaki asal sayıları ekrana yazdıran program.
