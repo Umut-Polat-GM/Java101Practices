@@ -71,3 +71,6 @@ Java'da döngüler kullanarak yıldızlar ile elmas yapımı.
 
 ## ATM_Machine
 Bu program ile ATM arayüzü calısması yapılmıstır.
+
+## EBOB_EKOK
+Bu Program girilen iki sayının ebob ve ekok bulunması icin hazırlanmıstır.
