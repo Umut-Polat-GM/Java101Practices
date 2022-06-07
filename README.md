@@ -62,3 +62,6 @@ Bu kod dizilimi ile kombinasyon hesabı yapılmak amaclanmıstır.
 
 ## Uslu_Sayilar
 Bu kodlama kullanıcadan alınna veriler ile uslu sayı hesabı yapmak icin hazırlanmıstır.
+
+## Harmonic_Numbers
+Java ile girilen sayının harmonik serisini bulan program.
