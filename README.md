@@ -53,3 +53,6 @@ Bu kod ile kullanıcılardan istenen sayıların 4'un katı olanların toplamın
 
 ## java101_Homework03
 Bu kod Java döngüler ile girilen sayıya kadar olan 4 ve 5'in kuvvetlerini ekrana yazdıran programıdır.
+
+## Combination
+Bu kod dizilimi ile kombinasyon hesabı yapılmak amaclanmıstır.
