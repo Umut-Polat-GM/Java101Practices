@@ -65,3 +65,6 @@ Bu kodlama kullanıcadan alınna veriler ile uslu sayı hesabı yapmak icin haz�
 
 ## Harmonic_Numbers
 Java ile girilen sayının harmonik serisini bulan program.
+
+## Triangle_Stars
+Java'da döngüler kullanarak yıldızlar ile elmas yapımı.
