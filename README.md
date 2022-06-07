@@ -76,3 +76,6 @@ Bu program ile ATM arayüzü calısması yapılmıstır.
 
 ## EBOB_EKOK
 Bu Program girilen iki sayının ebob ve ekok bulunması icin hazırlanmıstır.
+
+## Mukemmel_Sayi
+java ile klavyeden girilen bir sayının mükemmel sayı olup/olmadığını bulan ve sayı mükemmel sayı ise ekrana “mükemmel sayıdır.” değilse “mükemmel sayı değildir.” ifadelerini ekrana yazan program.
