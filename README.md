@@ -33,6 +33,8 @@ Bu program hava sıcaklıgına göre olay öneren bir yapıda hazırlandı.
 ## Placement Programing
 Bu program girilen 3 farklı sayıyı sıralamak icin yapılmıştır.
 
+## Max_Min_Values
+Girilen sayılar arasından en buyuk ve en kucugunu bulmak icin hazırlanmıstır.
 ## Burc Sorgulama Programı
 Bu program kullanıcının burcunu yazdırmak icin yapılmıstır.
 
