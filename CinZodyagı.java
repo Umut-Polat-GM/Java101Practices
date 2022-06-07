@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class CinZodyagı {
+public class CinZodyagi {
     public static void main(String[] args) {
         int Dt;
         Scanner input=new Scanner(System.in);
