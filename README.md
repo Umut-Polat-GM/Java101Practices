@@ -44,3 +44,6 @@ Bu kod cin zodyagı ile burc hesaplama icin hazırlanmıstır.
 
 ## Artık Yıl Hesaplama Programı
 Bu kod artık yıl hesaplamak icin hazırlanmıstır.
+
+## java101 Homework01
+3'e ve 4'e Tam bölünen sayıların ortalamasını bulmak icin hazırlanmıstır.
