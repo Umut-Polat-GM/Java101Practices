@@ -50,3 +50,6 @@ Bu kod artık yıl hesaplamak icin hazırlanmıstır.
 
 ## Java101 Homework02
 Bu kod ile kullanıcılardan istenen sayıların 4'un katı olanların toplamının bulunması icin hazırlanmıstır.
+
+## java101_Homework03
+Bu kod Java döngüler ile girilen sayıya kadar olan 4 ve 5'in kuvvetlerini ekrana yazdıran programıdır.
