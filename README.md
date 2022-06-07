@@ -97,3 +97,6 @@ Java ile kullanıcın seçtiği işlemleri yapan hesap makinesi
 
 ## Recursive_Power
 Java dilinde, taban ve üs değerleri kullanıcıdan alınan üs alma işlemini "Recursive" metot kullanarak yapan programı.
+
+## Recursive_Prime_Numbers
+Java dilinde "Recursive" metot kullanarak, kullanıcıdan alınan sayının "Asal" sayı olup olmadığını bulan programı.
