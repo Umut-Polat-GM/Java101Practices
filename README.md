@@ -79,3 +79,6 @@ Bu Program girilen iki sayının ebob ve ekok bulunması icin hazırlanmıstır.
 
 ## Mukemmel_Sayi
 java ile klavyeden girilen bir sayının mükemmel sayı olup/olmadığını bulan ve sayı mükemmel sayı ise ekrana “mükemmel sayıdır.” değilse “mükemmel sayı değildir.” ifadelerini ekrana yazan program.
+
+## Opposite_Triangle_Stars
+Java ile basamak sayısının kullanıcıdan alınan ve döngüler kullanılarak, yıldızlar(*) ile ekrana ters üçgen çizen program.
