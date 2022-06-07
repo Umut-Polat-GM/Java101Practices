@@ -41,3 +41,6 @@ Bu kod dizilimi ucak bilet fiyatını mesafe,yas,indirim ve gidis-donus parametr
 
 ## Çin Zodyağı Hesaplama
 Bu kod cin zodyagı ile burc hesaplama icin hazırlanmıstır.
+
+## Artık Yıl Hesaplama Programı
+Bu kod artık yıl hesaplamak icin hazırlanmıstır.
