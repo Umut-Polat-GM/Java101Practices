@@ -35,3 +35,6 @@ Bu program girilen 3 farklı sayıyı sıralamak icin yapılmıştır.
 
 ## Burc Sorgulama Programı
 Bu program kullanıcının burcunu yazdırmak icin yapılmıstır.
+
+## Airfare Calculation
+Bu kod dizilimi ucak bilet fiyatını mesafe,yas,indirim ve gidis-donus parametrelerine baglı olarak hesaplamac icin yapılmıstır.
