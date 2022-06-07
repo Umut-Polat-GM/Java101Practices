@@ -47,3 +47,6 @@ Bu kod artık yıl hesaplamak icin hazırlanmıstır.
 
 ## java101 Homework01
 3'e ve 4'e Tam bölünen sayıların ortalamasını bulmak icin hazırlanmıstır.
+
+## Java101 Homework02
+Bu kod ile kullanıcılardan istenen sayıların 4'un katı olanların toplamının bulunması icin hazırlanmıstır.
