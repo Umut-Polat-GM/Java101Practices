@@ -100,3 +100,6 @@ Java dilinde, taban ve üs değerleri kullanıcıdan alınan üs alma işlemini 
 
 ## Recursive_Prime_Numbers
 Java dilinde "Recursive" metot kullanarak, kullanıcıdan alınan sayının "Asal" sayı olup olmadığını bulan programı.
+
+## Recursive_Method_Last_Number
+Kural : Girilen sayı 0 veya negatif olduğu yere kadar girilen sayıdan 5 rakamını çıkarın. Her çıkarma işlemi sırasında ekrana son değeri yazdırın. Sayı negatif veya 0 olduktan sonra tekrar 5 ekleyin. Yine her ekleme işleminde sayının son değerini ekrana yazdırın.
