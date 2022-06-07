@@ -56,3 +56,6 @@ Bu kod Java döngüler ile girilen sayıya kadar olan 4 ve 5'in kuvvetlerini ekr
 
 ## Combination
 Bu kod dizilimi ile kombinasyon hesabı yapılmak amaclanmıstır.
+
+## Uslu_Sayilar
+Bu kodlama kullanıcadan alınna veriler ile uslu sayı hesabı yapmak icin hazırlanmıstır.
