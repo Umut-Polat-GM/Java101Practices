@@ -88,3 +88,6 @@ Java ile 1 - 100 arasındaki asal sayıları ekrana yazdıran program.
 
 ## Fibonacci_Numbers
 Java döngüler ile fibonacci serisi bulan program.
+
+## Palindrom_Numbers
+Java ile bir sayının "Palindrom Sayı" olup olmadığını bulan bir program.
